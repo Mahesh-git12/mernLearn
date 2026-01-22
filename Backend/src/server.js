@@ -25,6 +25,6 @@ app.use("/api/notes",NotesRoutes);
 //endpoint-> It is a combo of URl+ http methods that allows the user to interact with a specifc resource
 
 app.listen(PORT, ()=>{
-    console.log("Server is running on port 5007");
+    console.log("Server is running on port 5007 yayyyyy");
 });
 
